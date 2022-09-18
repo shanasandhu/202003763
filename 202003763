@@ -1,0 +1,15 @@
+<html>
+<head>
+<style>
+img {
+  width: 100%;
+}
+</style>
+</head>
+<body>
+
+<img src="file:///C:/Users/PC8/Desktop/ff/car.jpg" width="128" height="1000">
+
+
+</body>
+</html>
